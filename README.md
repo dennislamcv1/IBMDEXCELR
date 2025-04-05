@@ -1,16 +1,12 @@
-# IBMDSR
-## IBM Data Analytics with Excel and R Professional Certificate
+# IBMDEXCELR
+## IBM Data Analytics with Excel and R Professional Certificate (9 course series)
 
-### About this Professional Certificate
+Prepare for the in-demand field of data analytics. In this program, you’ll learn high valued skills like Excel, Cognos Analytics, and R programming language to get job-ready in less than 3 months.
 
+Data analytics is a strategy-based science where data is analyzed to find trends, answer questions, shape business processes, and aid decision-making. This Professional Certificate focuses on data analysis using Microsoft Excel and R programming language. If you’re interested in using Python, please explore the IBM Data Analyst PC. 
 
-This Professional Certificate is intended for anyone who is seeking to develop the job-ready skills, tools, and portfolio for an entry-level data analyst or data scientist position. Through these eight online courses, you will dive into the role of a data analyst or data scientist and develop the essential skills you need work with a range of data sources and apply powerful tools, including Excel, Cognos Analytics, and the R programming language, towards becoming a data driven practitioner, and gaining a competitive edge in the job market.
+This program will teach you the foundational data skills employers are seeking for entry level data analytics roles and will provide a portfolio of projects and a Professional Certificate from IBM to showcase your expertise to potential employers.
 
-By the end of this Professional Certificate, you will be able to explain the data analyst and data scientist roles. You will work with Excel spreadsheets and utilize them for data analysis to create charts and plots. You will utilize Cognos Analytics to create interactive dashboards. You will work with relational databases and query data using SQL statements. You will use the R programming language to complete the entire data analysis process - including data preparation, statistical analysis, data visualization, predictive modeling, and creating interactive data applications. You will also communicate your data findings and learn to prepare a report for stakeholders.
+You’ll learn the latest skills and tools used by professional data analysts and upon successful completion of this program, you will be able to work with Excel spreadsheets, Jupyter Notebooks, and R Studio to analyze data and create visualizations. You will also use the R programming language to complete the entire data analysis process,  including data preparation, statistical analysis, data visualization, predictive modeling and creating interactive dashboards. Lastly, you’ll learn how to communicate your data findings and prepare a summary report.
 
-This program is suitable for anyone with a passion for learning and does not require any prior data analysis, statistics, or programming experience.
-### Applied Learning Project
-
-Throughout this Professional Certificate, you will complete hands-on labs and projects to help you gain practical experience with Excel, Cognos Analytics, SQL, and the R programing language and related libraries for data science, including Tidyverse, Tidymodels, R Shiny, ggplot2, Leaflet, and rvest.
-
-In the final course in this Professional Certificate, you will complete a capstone project that applies what you have learned to a challenge that requires data collection, analysis, basic hypothesis testing, visualization, and modelling to be performed on real-world datasets.
+This program is ACE® and FIBAA recommended—when you complete, you can earn up to 15 college credits and 4 ECTS credits.s.
